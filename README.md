@@ -10,4 +10,4 @@ git push -u origin master
 
 =======
 # GIPproject
->>>>>>> 07f69910514207fb996f259e324034505df7a493
+>>>>>>> 
